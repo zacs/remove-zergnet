@@ -8,7 +8,7 @@ Installation
 
 Chrome
 ------
-To install for Chrome, just go to the listing on the [Chrome Web Store and install it](https://chrome.google.com/webstore/category/apps).
+To install for Chrome, just go to the listing on the [Chrome Web Store and install it](https://chrome.google.com/webstore/detail/remove-zergnet/manjkebbkajmpdndbahchokjphleklak).
 
 Build
 =====
